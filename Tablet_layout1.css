@@ -1,0 +1,260 @@
+/*Tablet Layout*/
+@media (min-width: 481px) and (max-width: 768px) {
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    background-color: rgb(234, 214, 234);
+  }
+  .logo a {
+    font-size: 25px;
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+  }
+  .programs {
+    position: relative;
+    bottom: 30px;
+  }
+  .programs a {
+    display: grid;
+    margin-top: 10px;
+    justify-content: center;
+  }
+  .sign_in_up {
+    display: grid;
+  }
+  .sign_in {
+    position: relative;
+    left: 43px;
+    bottom: 20px;
+  }
+  .defining_future {
+    font-size: 25px;
+  }
+  .your_skill {
+    font-size: 25px;
+  }
+  .here_few_members {
+    font-size: 12px;
+    position: relative;
+    bottom: 570px;
+  }
+  .box {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    position: relative;
+    bottom: 120px;
+  }
+  .award_section {
+    position: relative;
+    top: 400px;
+  }
+  .teacher_section {
+    position: relative;
+    top: 150px;
+    right: 25px;
+  }
+  .successful_section {
+    position: relative;
+    bottom: 80px;
+  }
+  .complete_project {
+    position: relative;
+    bottom: 320px;
+  }
+
+  .our_story_image {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 250px;
+  }
+  .our_story {
+    font-size: 12px;
+  }
+  .tech_hub {
+    font-size: 12px;
+  }
+  .we_stand {
+    font-size: 10px;
+  }
+  .our_image_side img {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+  hr {
+    position: relative;
+    bottom: 250px;
+  }
+
+  .what_set_us {
+    font-size: 15px;
+  }
+  .project_based {
+    font-size: 12px;
+  }
+  .our_commitment {
+    font-size: 8px;
+  }
+  .project_based_side {
+    height: 300px;
+    width: 305px;
+  }
+  .greater_than {
+    display: none;
+  }
+  .less_than {
+    display: none;
+  }
+  .set_us_apart_project {
+    position: relative;
+    bottom: 300px;
+  }
+  .large_background_color {
+    height: 2900px;
+    position: relative;
+    bottom: 350px;
+    width: 100%;
+  }
+  .moving_box3 {
+    position: relative;
+    right: 50px;
+    top: 650px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .box2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .join_our_thriving {
+    font-size: 16px;
+
+    position: relative;
+    top: 20px;
+  }
+  .unordered_list {
+    font-size: 9px;
+    position: relative;
+    top: 20px;
+  }
+  .image_080 {
+    width: 80px;
+    height: 100px;
+    margin-right: 200px;
+  }
+  .image_082 {
+    position: absolute;
+    top: 230px;
+    left: 200px;
+  }
+  .developer_image_side {
+    margin-top: 200px;
+  }
+  .image_306 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    right: 50px;
+    bottom: 220px;
+  }
+
+  .box3 {
+    width: 400px;
+    height: 500px;
+    background-color: purple;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 800px;
+    bottom: 250px;
+  }
+  .grow_your_career_side {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .grow_your_career {
+    font-size: 15px;
+    position: relative;
+    left: 50px;
+  }
+  .lorem_ipsum {
+    font-size: 12px;
+  }
+  .grow_your_career_side button {
+    width: 100px;
+  }
+  .grow_your_career_image img {
+    width: 200px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  .mentor_box {
+    position: relative;
+    top: 450px;
+  }
+  .our_mentor {
+    font-size: 20px;
+  }
+  .in_devx {
+    font-size: 10px;
+  }
+  .student {
+    font-size: 10px;
+  }
+  .box4 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 500px;
+  }
+  .container2 {
+    height: 1100px;
+  }
+
+  .footer_box {
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+    position: relative;
+    bottom: 350px;
+  }
+  .footer_devx {
+    position: relative;
+    left: 85px;
+    font-size: 25px;
+  }
+  .top_learning {
+    font-size: 15px;
+  }
+  .line {
+    position: relative;
+    bottom: 400px;
+  }
+  .footer_box2 {
+    position: relative;
+    bottom: 360px;
+  }
+}

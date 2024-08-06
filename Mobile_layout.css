@@ -1,0 +1,282 @@
+/*Mobile Layout*/
+@media (max-width: 480px) {
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    background-color: rgb(234, 214, 234);
+    border-radius: 10px;
+  }
+  .logo a {
+    font-size: 20px;
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+  }
+  .programs {
+    position: relative;
+    bottom: 30px;
+  }
+  .programs a {
+    display: grid;
+    margin-top: 10px;
+    justify-content: center;
+  }
+  .sign_in_up {
+    display: grid;
+  }
+  .sign_in {
+    position: relative;
+    left: 43px;
+    bottom: 20px;
+  }
+  .welcome_to_devx {
+    position: relative;
+    bottom: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .welcome_to_devx_btn1 {
+    font-size: 11px;
+    width: 120px;
+    padding: 15px;
+  }
+  .defining_future {
+    font-size: 18px;
+  }
+  .your_skill {
+    font-size: 18px;
+  }
+  .the_go_to {
+    font-size: 11px;
+  }
+  .best_dev_hub {
+    font-size: 15px;
+  }
+  .here_few_members {
+    font-size: 12px;
+    position: relative;
+    bottom: 650px;
+  }
+  .box {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    position: relative;
+    bottom: 200px;
+  }
+  .award_section {
+    position: relative;
+    top: 400px;
+  }
+  .teacher_section {
+    position: relative;
+    top: 150px;
+    right: 25px;
+  }
+  .successful_section {
+    position: relative;
+    bottom: 80px;
+  }
+  .complete_project {
+    position: relative;
+    bottom: 320px;
+  }
+  .our_story_image {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 300px;
+  }
+  .our_story {
+    font-size: 12px;
+  }
+  .tech_hub {
+    font-size: 12px;
+  }
+  .we_stand {
+    font-size: 10px;
+  }
+  .our_image_side img {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+  hr {
+    position: relative;
+    bottom: 300px;
+  }
+  .what_set_us {
+    font-size: 15px;
+  }
+  .project_based {
+    font-size: 12px;
+  }
+  .our_commitment {
+    font-size: 8px;
+  }
+  .project_based_side {
+    height: 300px;
+    width: 305px;
+  }
+  .greater_than {
+    display: none;
+  }
+  .less_than {
+    display: none;
+  }
+  .set_us_apart_project {
+    position: relative;
+    bottom: 330px;
+  }
+  .large_background_color {
+    height: 3150px;
+    position: relative;
+    bottom: 350px;
+    width: 100%;
+  }
+
+  .box2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .join_our_thriving {
+    font-size: 15px;
+    position: relative;
+    top: 40px;
+  }
+  .unordered_list {
+    font-size: 12px;
+    position: relative;
+    right: 10px;
+    top: 40px;
+  }
+  .image_080 {
+    width: 80px;
+    height: 100px;
+    margin-right: 200px;
+  }
+  .image_082 {
+    position: absolute;
+    top: 280px;
+    left: 20px;
+  }
+  .developer_image_side {
+    margin-top: 200px;
+  }
+  .image_306 {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    right: 50px;
+    bottom: 220px;
+  }
+  .moving_box3 {
+    position: relative;
+    right: 230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .box3 {
+    width: 350px;
+    height: 500px;
+    background-color: purple;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .grow_your_career_side {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .grow_your_career {
+    font-size: 12px;
+    margin-left: 100px;
+    font-weight: 800;
+  }
+  .lorem_ipsum {
+    font-size: 12px;
+  }
+  .grow_your_career_side button {
+    width: 100px;
+  }
+  .grow_your_career_image img {
+    width: 200px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  .our_mentor {
+    font-size: 20px;
+  }
+  .in_devx {
+    font-size: 10px;
+  }
+  .student {
+    font-size: 10px;
+  }
+  .box4 {
+    display: flex;
+    flex-direction: column;
+  }
+  .container2 {
+    height: 900px;
+  }
+  .footer_box {
+    display: flex;
+    flex-direction: column;
+    height: 800px;
+    position: relative;
+    bottom: 350px;
+  }
+  .footer_devx {
+    position: relative;
+    left: 50px;
+    font-size: 18px;
+  }
+  .top_learning {
+    font-size: 10px;
+  }
+  .line {
+    position: relative;
+    bottom: 350px;
+  }
+  .footer_box2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 350px;
+  }
+  .all_rights {
+    font-size: 12px;
+    
+  }
+  .all_social_media img {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 30px;
+    right: 10px;
+  }
+}

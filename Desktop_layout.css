@@ -1,0 +1,17 @@
+/*Desktop Layout*/
+@media (min-width: 1824px) {
+  .logo a {
+    font-size: 20px;
+  }
+  .programs a {
+    font-size: 14px;
+  }
+  .greater_than {
+    position: relative;
+    left: 390px;
+  }
+  .less_than {
+    position: relative;
+    right: 390px;
+  }
+}
